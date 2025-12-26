@@ -1,0 +1,9 @@
+# --- DENY ALL ---
+# Abaikan semua file dan folder secara default
+*
+
+# --- ALLOW LIST ---
+# Kecualikan file-file ini dari pengabaian (artinya: file ini AKAN di-upload)
+!Home_Credit_Scorecard_Model.ipynb
+!README.md
+!.gitignore
